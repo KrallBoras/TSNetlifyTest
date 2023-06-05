@@ -1,0 +1,19 @@
+$primary-color: blue;
+
+
+body{
+background-color: $primary-color;
+font-family: Arial, sans-serif;
+color: green;
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
