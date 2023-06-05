@@ -1,0 +1,18 @@
+body {
+  background-color: blue;
+  font-family: Arial, sans-serif;
+  color: green;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+p {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
